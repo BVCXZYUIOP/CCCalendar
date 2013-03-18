@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+ios/
+libs/
+Prefix.pch
+Resources/
+*.DS_Store
+CCCalendarTest.xcodeproj/
